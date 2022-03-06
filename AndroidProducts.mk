@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_mojito.mk
+    $(LOCAL_DIR)/syberia_mojito.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_mojito-user \
-    aosp_mojito-userdebug \
-    aosp_mojito-eng
+    syberia_mojito-user \
+    syberia_mojito-userdebug \
+    syberia_mojito-eng
